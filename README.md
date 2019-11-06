@@ -15,4 +15,4 @@ And _Matt Dancho_ has even been kind enough to __feature my newly created webpag
 
 
 
-<img src="https://github.com/DiegoUsaiUK/build-your-website-with-hugo-and-blogdown/blob/master/img/0_learninglab.jpg" width="1000">
+<img src="https://github.com/DiegoUsaiUK/build-your-website-with-hugo-and-blogdown/blob/master/img/0_learninglab.jpg" width="800">
