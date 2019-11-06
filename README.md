@@ -13,4 +13,4 @@ When [__Matt Dancho__](https://www.linkedin.com/in/mattdancho) got in touch in e
 
 And _Matt Dancho_ has even been kind enough to __feature my newly created webpage__ on his _23-Oct-2019_ webinar [__SQL for Data Science__](https://github.com/business-science/presentations/tree/master/2019_10_23_lab_21_SQL_for_Data_Science)!
 
-![learninglab](/img/0_learninglab.jpg?raw=true width="75%")
+![learninglab](/img/0_learninglab.jpg?raw=true|width=75%)
